@@ -1,3 +1,6 @@
+![image](https://github.com/LeonardHolter/Simple-Calculator/assets/123200111/79847e1a-decf-4bc4-8e1d-037e76aba7c3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
